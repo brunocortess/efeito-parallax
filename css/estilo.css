@@ -10,7 +10,7 @@ body, html {
 section.imagem1, 
 section.imagem2, 
 section.imagem3, 
-section.imagem4   {
+section.imagem4 {
     display: flex;
     flex-direction: row;
     justify-content: center;
